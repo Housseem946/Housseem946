@@ -1,5 +1,3 @@
-# Houssem946
-
 # 👨‍💻 About Me
 
 🎓 Final-year engineering student at ESILV, specializing in Data and Artificial Intelligence. Passionate about data engineering and AI, I focus on applying advanced technologies like Machine Learning, Big Data, and Cloud Solutions to solve real-world challenges.
