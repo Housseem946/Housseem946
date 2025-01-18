@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/b7b7fee8-a114-419d-ada5-94cf8a65e258)
+
+
 # 👨‍💻 About Me
 
 🎓 Final-year engineering student at ESILV, specializing in Data and Artificial Intelligence. Passionate about data engineering and AI, I focus on applying advanced technologies like Machine Learning, Big Data, and Cloud Solutions to solve real-world challenges.
