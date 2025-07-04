@@ -4,7 +4,7 @@
 
 💡 I’m passionate about designing scalable data architectures and building intelligent systems that solve real-world problems.
 
-###🛠️ Technical Skillset
+### 🛠️ Technical Skillset
 
 - Data Engineering: Data modeling, database creation & migration (PostgreSQL, SQLAlchemy).
 
