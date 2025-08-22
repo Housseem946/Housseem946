@@ -1,18 +1,34 @@
 # 👨‍💻 About Me
 
-I’m a Data Engineer Enthusiast with hands-on experience acquired during a two-year at EDF, within the Optimization & Trading (DOAAT) department.
+I’m a Data Engineer enthusiast with two years of hands-on experience at EDF – Optimization & Trading (DOAAT), where I contributed to designing and scaling data-driven systems.
 
-💡 I’m passionate about building scalable data architectures, automating workflows, and delivering data-driven solutions to real-world challenges.
+Passionate about data architecture, relational & NoSQL databases, and Python-powered analytics, I focus on designing robust pipelines, automating workflows, and turning complex datasets into actionable insights.
 
-### 🛠️ Technical Skillset
+🛠️ Technical Skillset
 
-- Data Engineering: Data modeling, database design, creation & migration (PostgreSQL, SQLAlchemy..)..
-- ETL Pipelines: Designing and orchestrating workflows using Airflow.
-- Cloud & DevOps: Experience with OpenShift (CaaS), familiar with GCP, AWS, containerization(Docker) and scalable deployment(K8S).
-- Machine Learning: Applying ML models to business use cases.
-- API & App Development: Python ( FastAPI, Flask, Dash , streamlit..) + Vue.js for internal tools and dashboards.
-- Data Visualization: Tableau, Python libraries (Dash, Seaborn, etc.).
-- Monitoring & Logging: Grafana, Dynatrace..
+- **Python for Data Engineering** : 
+
+    - Python libraries like **Pandas & Polars** for data wrangling, transformation, and performance optimization.
+
+    - **DBT** for modern ELT workflows and analytics engineering.
+
+- **Databases & Data Modeling** : 
+
+    - Relational: Strong experience with PostgreSQL (design, optimization, migrations with SQLAlchemy & Alembic).
+    
+    - NoSQL: Hands-on with MongoDB and Cassandra for large-scale data storage and retrieval.
+
+- **ETL & Orchestration**: Building and scheduling pipelines ( Airflow, Dagster..)
+
+- **Cloud & DevOps**: Hands-on with OpenShift (CaaS), familiar with GCP & AWS, containerization (Docker) and scalable deployment (Kubernetes).
+
+- **Machine Learning**: Applying ML models to business-driven use cases.
+
+- API & App Development: Python (FastAPI, Flask, Dash, Streamlit) + Vue.js for internal tools & dashboards.
+
+- **Data Visualization**: Tableau, Python libraries (Seaborn, Matplotlib, Dash..).
+
+- **Monitoring & Logging**: Grafana, Dynatrace.
 
 ### 📈 Let’s connect and discuss data, innovation, and engineering!
 
