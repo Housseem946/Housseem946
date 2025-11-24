@@ -1,6 +1,6 @@
 # 👨‍💻 About Me
 
-I’m a Data Engineer enthusiast with two years of hands-on experience at EDF – Optimization & Trading Departement(DOAAT), where I contributed to designing and scaling data-driven systems.
+I’m a Data Engineer enthusiast at EDF – Optimization & Trading Departement(DOAAT), where I contributed to designing and scaling data-driven systems.
 
 Passionate about data architecture, relational & NoSQL databases, and Python-powered analytics, I focus on designing robust pipelines, automating workflows, and turning complex datasets into actionable insights.
 
